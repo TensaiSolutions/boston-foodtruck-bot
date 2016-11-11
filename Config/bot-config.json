@@ -1,0 +1,7 @@
+{
+    "token": "xoxb-SLACK-TOKEN",
+    "location_url": "http://bostonfeed.me/backend/getLocation.php",
+    "truck_url": "http://bostonfeed.me/backend/getTruck.php",
+    "near_me_locations" : ["dewey","greenway-dewey-congress","greenway-roweswharf","innovationdistrict","seaport-wormwood"],
+    "near_me_token" : "NearMe"
+}
